@@ -52,6 +52,7 @@ namespace Opps_Training_Day01
 			//CallRunTimeExample1PolymorphismToOutput();
 			//CallRunTimeExample2PolymorphismToOutput();
 
+			Console.ReadKey();
 		}
 
 		private static void CallAbstractClassToOutput()
